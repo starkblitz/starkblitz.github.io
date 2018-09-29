@@ -1,0 +1,27 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Consolas;
+}
+
+
+P {
+    font-family: Verdana;
+}
+
+li {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  a {
+    font-size: 18px;
+
+  }
